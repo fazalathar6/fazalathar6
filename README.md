@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fazalathar6
 - 👀 I’m interested in machine learning and quantitative trading 
-- 🌱 I’m currently learning machine learning and deep learning 
+- 🌱 I’m currently learning quantitative trading and machine learning
 - 📫 connect fazalathar337@gmail.com
 
 <!---
